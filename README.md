@@ -1,2 +1,1 @@
-# pxe-dhcp
 # pxe-boot
