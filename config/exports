@@ -1,0 +1,2 @@
+/home/pxeadmin/boot  *(fsid=0,rw,sync,no_root_squash,all_squash,no_subtree_check,anonuid=6565,anongid=6565,sec=sys)
+
